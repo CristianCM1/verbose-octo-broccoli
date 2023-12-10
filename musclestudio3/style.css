@@ -1,0 +1,106 @@
+.card img {
+    max-width: 50%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.card {
+    text-align: center; 
+}
+
+.badge-warning {
+    color: rgb(255, 241, 241); 
+}
+
+.badge-pill {
+    color: rgb(255, 0, 0); 
+}
+
+.intro {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.intro h1 {
+    font-size: 2em;
+    color: #ffffff; 
+}
+
+.intro p {
+    font-size: 1.2em;
+    color: #ffffff; 
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.testimonial {
+    width: 300px;
+    margin: 20px;
+    text-align: center;
+}
+
+.testimonial img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.opinie {
+    font-style: italic;
+}
+
+.outro {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.outro h2 {
+    font-size: 1.8em;
+    color: #ffffff; 
+}
+
+.outro p {
+    font-size: 1.2em;
+    color: #ffffff; 
+}
+
+
+ #Despre_noi {
+    padding-left: 20px;  
+}
+
+body {
+    background-image: url('imagini/fundal.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+body {
+    color: white; /* Setează culoarea textului pentru întreg documentul */
+}
+
+/* Specificații suplimentare pentru a modifica culoarea unor elemente specifice (dacă este necesar) */
+h1, h2, h3, h4, h5, h6 {
+    color: white; /* Setează culoarea textului pentru titluri */
+}
+
+#Abonamente {
+    background-color: gray;
+    padding: 5px 0; 
+}
+
+#Abonamente {
+    color: rgb(143, 143, 143); /* Setează culoarea textului la negru pentru întreaga secțiune */
+}
+
+#Abonamente h2, h3, h4, h5 {
+    color: rgb(36, 27, 27); /* Păstrează culoarea inițială pentru h2 (presupunând că inițiala este neagră) */
+}
+
+#Despre_noi {
+    color: rgb(255, 255, 255); /* Setează culoarea textului la negru pentru întreaga secțiune */
+}
